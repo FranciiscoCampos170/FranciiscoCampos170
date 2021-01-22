@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I'm a Junior Developer**
+**I'm a Software Developer**
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.vue`, `.ts`
 - 🌱 I’m currently learning: **NodeJs/AdonisJs**, **TailwindCss**, **Docker**
